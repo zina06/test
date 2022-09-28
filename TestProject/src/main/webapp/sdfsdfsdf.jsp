@@ -10,9 +10,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<b>어러짜록</b>
-<b>어러짜록</b>
-<b>어러짜록</b>
 
 </body>
 </html>
