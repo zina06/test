@@ -10,6 +10,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<b>테스트</b>
+
 </body>
 </html>
