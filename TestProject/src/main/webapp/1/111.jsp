@@ -10,6 +10,13 @@
 <title>Insert title here</title>
 </head>
 <body>
-<b>ddd</b>
+<%
+
+String name=request.getParameter("name");
+%>
+
+
+<h3><%=name %></h3>
+<h3><%=name %></h3>
 </body>
 </html>
