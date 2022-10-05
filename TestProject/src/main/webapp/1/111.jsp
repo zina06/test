@@ -13,10 +13,12 @@
 <%
 
 String name=request.getParameter("name");
+
 %>
 
 
 <h3><%=name %></h3>
 <h3><%=name %></h3>
+<h2>ㅇㅇㅇㅇ</h2>
 </body>
 </html>
